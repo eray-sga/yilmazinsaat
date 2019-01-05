@@ -87,12 +87,3 @@ body{
 .alt-menu .nav-link:hover{
     color: #474d55 !important;
 }
-@media(max-width:768px){
-    .card{
-        width: 500px !important;
-    }
-    .col-md-3{
-        width: 50%;
-        padding: 2px;
-    }
-}
