@@ -87,3 +87,8 @@ body{
 .alt-menu .nav-link:hover{
     color: #474d55 !important;
 }
+@media(768px){
+    .harita{
+        width: 300px;
+    }
+}
