@@ -1,3 +1,3 @@
 Yılmaz İnşaat
 Web Design 
-http://yilmazinsaat.org/
+https://yilmazgroup.net/
